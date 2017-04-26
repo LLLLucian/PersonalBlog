@@ -1,0 +1,47 @@
+#title {
+	width: 710px;
+	height: 60px;
+	margin-top: 10px;
+}
+
+#title h1 {
+	height: 50px;
+	line-height: 60px;
+	text-align: center;
+}
+
+textarea {
+	width: 708px;
+	height: 900px;
+	border-radius: 10px;
+	font-size: 20px;
+	padding: 30px;	
+}
+
+#comment {
+	width: 710px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+#comment span {
+	margin-left: 30px;
+	font-size: 25px;
+}
+
+#comment a {
+	font-size: 15px;
+	text-decoration: underline;
+	margin-left: 20px;
+}
+
+.sg {
+	width: 660px;
+	background: #fff;
+	border: 1px solid #E0DFDF;
+	margin: 5px 10px 5px 10px;
+	position: relative;
+	border-radius: 5px;
+	padding: 10px;
+	color: #4F4F4F;
+}

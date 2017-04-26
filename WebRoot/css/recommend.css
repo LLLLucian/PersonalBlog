@@ -1,0 +1,92 @@
+#c_left .content_text {
+	width: 730px;
+	margin-top: 5px;
+}
+
+#c_left .content_text .wz {
+	width: 725px;
+	margin: 5px 0px 10px 20px;
+	color: #1D1A1A;
+}
+
+.wz h3 {
+	width: 300px;
+	height: 30px;
+	overflow: hidden;
+	line-height: 30px;
+	font-size: 17px;
+	font-weight: 500;
+	padding-left: 5px;
+	color: #325EBD;
+}
+
+.wz h3 a {
+	color: #D3535D;
+}
+
+.wz dl {
+	width: 730px;
+	margin-top: 3px;
+}
+
+.wz dl dd {
+	float: left;
+	width: 680px;
+	overflow: hidden;
+	margin-left: 5px;
+}
+
+.wz dl dd .dd_text_1 {
+	display: block;
+	overflow: hidden;
+}
+
+.wz dl dd .dd_text_2 {
+	line-height: 30px;
+	margin-top: 10px;
+}
+
+.wz dl dd .dd_text_2 span {
+	padding-left: 15px;
+}
+
+.wz dl dd .dd_text_2 .yd {
+	display: block;
+	width: 110px;
+	height: 30px;
+	text-align: center;
+	margin-top: 3px;
+}
+
+.wz dl dd .dd_text_2 .yd a {
+	color: #F55522;
+	display: block;
+	width: 80px;
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+	padddding: 2px 5px;
+	border: 1px solid #AC9696;
+	border-radius: 2px;
+}
+
+.wz dl dd .dd_text_2 .yd a:hover {
+	color: #f36;
+}
+
+#c_left .s_tuijian {
+	width: 710px;
+	height: 50px;
+}
+
+.s_tuijian h2 {
+	width: 650px;
+	height: 50px;
+	margin: 20px;
+}
+
+.s_tuijian h2 a {
+	font-size: 15px;
+	text-decoration: underline;
+	margin-left: 20px;
+}

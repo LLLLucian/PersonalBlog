@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Practice"
+  id="myeclipse.1464936026615"
+  context-root="/Practice"
+  j2ee-spec="5.0"
+  archive="Practice.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

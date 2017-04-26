@@ -1,0 +1,31 @@
+#content #guestbook {
+	width: 730px;
+	height: 450px;
+	background: #fff;
+}
+
+#guestbook .g_content {
+	width: 710px;
+	height: 300px;
+	margin-top: 10px;
+	padding: 0 10px;
+}
+
+.g_content h2 {
+	margin: 20px;
+}
+
+.g_content h2 a {
+	font-size: 15px;
+	text-decoration: underline;
+	margin-left: 20px;
+}
+
+.g_content ul {
+	margin: 20px;
+}
+
+.g_content li {
+	margin: 10px 5px;
+	font-size: 15px;
+}

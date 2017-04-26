@@ -1,0 +1,44 @@
+#content #riji {
+	width: 730px;
+	background: #fff;
+}
+
+#riji .rj_content {
+	width: 710px;
+	margin-top: 10px;
+	padding: 0 10px;
+	background: #fff;
+	padding-bottom: 10px;
+}
+
+.rj_content .shiguang {
+	width: 710px;
+}
+
+.rj_content h2 {
+	float: left;
+	margin: 20px;
+}
+
+.rj_content h2 a {
+	font-size: 15px;
+	text-decoration: underline;
+	margin-left: 20px;
+}
+
+.rj_content .shiguang .sg_text {
+	width: 660px;
+	height: 20px;
+	background: #fff;
+	border: 1px solid #E0DFDF;
+	margin: 10px 10px 0px 10px;
+	position: relative;
+	border-radius: 5px;
+	padding: 10px;
+	color: #4F4F4F;
+	margin-bottom: 10px;
+}
+
+.shiguang a {
+	text-decoration: underline;
+}
